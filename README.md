@@ -11,22 +11,30 @@ O projeto utiliza sensores e validações para garantir maior confiabilidade na 
 O sistema utiliza:
 
 📡 Sensor ultrassônico (HC-SR04) para detectar a presença de veículos
+
 🌗 LDR para monitorar a luminosidade do ambiente
+
 🔴🟢 LEDs para indicar o estado da vaga
+
 🔄 Estados do sistema
+
 🟢 Vaga Livre
 Nenhum objeto detectado
 LED verde piscando
+
 🔴 Vaga Ocupada
 Objeto detectado entre 5–20 cm por 5 segundos
 LED vermelho piscando
+
 ⚠️ Erro
 Sensor desconectado ou leitura instável
 Ambos os LEDs piscando
+
 ⏱️ Regras importantes
 Leitura a cada 500 ms
 Confirmação de presença: 5 segundos
 Timeout do sensor: 5 segundos
+
 🛠️ Tecnologias utilizadas
 ESP32
 Arduino (C/C++)
