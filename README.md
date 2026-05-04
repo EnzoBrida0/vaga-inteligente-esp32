@@ -1,4 +1,5 @@
 =Vaga Inteligente com ESP32=
+
 📌 Descrição
 
 Sistema de monitoramento de vaga de estacionamento utilizando ESP32, capaz de identificar se a vaga está livre, ocupada ou em estado de erro.
