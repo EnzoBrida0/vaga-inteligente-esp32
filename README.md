@@ -63,6 +63,8 @@ Exemplos de saída no Serial Monitor:
 ✔️ Testado em simulação
 ✔️ Tratamento de falhas implementado
 
-👨‍💻 Autores(as): Enzo,Amanda,Melanie,Matheus,Flávia
-Projeto desenvolvido para fins acadêmicos.
+👨‍💻 Autores(as): 
+Equipe: ParkSense
+->Enzo,Amanda,Melanie,Matheus,Flávia
+=Projeto desenvolvido para fins acadêmicos.
 
