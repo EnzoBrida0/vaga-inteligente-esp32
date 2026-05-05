@@ -43,10 +43,10 @@ LDR
 Simulação no Wokwi
 
 🔗 Simulação no Wokwi
-👉 Wokwi(https://wokwi.com/projects/462129500532142081)
+👉(https://wokwi.com/projects/462129500532142081)
 
 📸 Testes do projeto
-![Simulação do projeto](<img width="953" height="826" alt="image" src="https://github.com/user-attachments/assets/72dfe838-6841-481a-9beb-7c36d549fc6d" />
+![Simulação do projeto](
 )(
 
 📊 Logs do sistema
