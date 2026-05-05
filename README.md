@@ -46,7 +46,8 @@ Simulação no Wokwi
 👉 Wokwi(https://wokwi.com/projects/462129500532142081)
 
 📸 Testes do projeto
-Simulação do projeto(https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FFD1B5E1B4F541C1C%21s6cfe255549644024bce5bcbf3e88c704%3Fithint%3Dvideo%26e%3D0iATc6%26migratedtospo%3Dtrue&cid=FD1B5E1B4F541C1C&id=FD1B5E1B4F541C1C%21s6cfe255549644024bce5bcbf3e88c704&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy9mZDFiNWUxYjRmNTQxYzFjL0lRQlZKZjVzWkVra1FMemx2TDgtaU1jRUFheEFaX1hmTHRzRGZNeDVDQzZKVG44P2U9MGlBVGM2&v=photos)
+![Simulação do projeto](<img width="953" height="826" alt="image" src="https://github.com/user-attachments/assets/72dfe838-6841-481a-9beb-7c36d549fc6d" />
+)(
 
 📊 Logs do sistema
 Exemplos de saída no Serial Monitor:
