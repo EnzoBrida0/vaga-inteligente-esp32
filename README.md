@@ -46,8 +46,15 @@ Simulação no Wokwi
 👉(https://wokwi.com/projects/462129500532142081)
 
 📸 Testes do projeto
-![Simulação do projeto](
-)(
+=Simulação do projeto=
+
+https://github.com/user-attachments/assets/49c3bcf2-d92f-437e-9031-56eb51d2cddf
+
+https://github.com/user-attachments/assets/93bbfc13-7f76-4647-bc0a-c2fc6110c523
+
+https://github.com/user-attachments/assets/6bc5c723-b6c5-4799-bd6f-a6a5c6cd37ad
+
+
 
 📊 Logs do sistema
 Exemplos de saída no Serial Monitor:
