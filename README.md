@@ -1,4 +1,4 @@
-=Vaga Inteligente com ESP32=
+Vaga Inteligente com ESP32
 
 📌 Descrição
 
