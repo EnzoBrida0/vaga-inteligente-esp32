@@ -77,5 +77,5 @@ Equipe: ParkSense
 
 ->Enzo,Amanda,Melanie,Matheus,Flávia
 
-=Projeto desenvolvido para fins acadêmicos.
+Projeto desenvolvido para fins acadêmicos.
 
